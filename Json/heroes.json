@@ -1,0 +1,26 @@
+{
+    "heroes": [
+        {
+            "img": "https://superman.logo",
+            "size": 100,
+            "name": "clark kent",
+            "link": "https://superman.com",
+            "hero": "superman"
+        },
+        {
+            "img": "https://spider.logo",
+            "size": 400,
+            "name": "spider-man",
+            "link": "https://spider.com",
+            "hero": "peter"
+        },
+        {
+            "img": "https://mujermaravilla.logo",
+            "size": 500,
+            "name": "carol denver",
+            "link": "https://mujermaravilla.com",
+            "hero": "+"
+        }
+    ],
+    "hero": "Heroes"
+}
