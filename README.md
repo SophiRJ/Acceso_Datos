@@ -4,9 +4,9 @@
 
 ## 📌 Tecnologías y Herramientas
 
-- 🗄️ **Bases de Datos**: MySQL, PostgreSQL, MongoDB
+- 🗄️ **Bases de Datos**: MySQL
 - 🔗 **ORMs**: Hibernate
-- 📝 **Lenguajes**: Java, SQL
+- 📝 **Lenguajes**: Java, SQL, Json, XML, JDBC
 
 ## 📖 Contenido del Repositorio
 
